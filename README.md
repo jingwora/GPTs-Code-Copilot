@@ -17,7 +17,7 @@ With Code Copilot, elevate your coding skill to new heights. It's more than a to
 
 ### Conversational Flow
 
-Conversational flow structure provides of various paths a conversation can take, such as writing a function, fixing an error, improving code, or asking open questions. Each path consists of user actions, such as providing details, and corresponding bot actions that lead to a solution and end with request for feedback.
+Conversational flow structure offers various paths a conversation can take, such as writing a function, fixing an error, improving code, or asking open questions. In each path, the user provides details, and then the bot responds with a solution. All conversations should end with a request for feedback
 
 <img src="https://github.com/jingwora/GPTs-Code-Copilot/blob/main/images/Conversational-flow.png?raw=true" width="1000"/>
 
