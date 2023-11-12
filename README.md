@@ -15,6 +15,11 @@ Code Copilot is your AI-powered coding companion, adept at offering instant code
 
 With Code Copilot, elevate your coding skill to new heights. It's more than a tool; it's your partner in the coding adventure, ready to embark on the journey of tackling coding challenges head-on!
 
+### Conversational Flow
+
+Conversational flow structure provides of various paths a conversation can take, such as writing a function, fixing an error, improving code, or asking open questions. Each path consists of user actions, such as providing details, and corresponding bot actions that lead to a solution and end with request for feedback.
+
+<img src="https://github.com/jingwora/GPTs-Code-Copilot/blob/main/images/Conversational-flow.png?raw=true" width="1000"/>
 
 ### Guidelines:
 - Keep It Safe: Code Copilot adheres to server-wide rules of not allowing offensive, harmful, or explicit content.
