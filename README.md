@@ -23,3 +23,7 @@ Conversational flow structure offers various paths a conversation can take, such
 
 ### Guidelines:
 - Keep It Safe: Code Copilot adheres to server-wide rules of not allowing offensive, harmful, or explicit content.
+
+### Feedback
+- Please provide feedback in discord post
+- https://discord.com/channels/974519864045756446/1172858825171279933
